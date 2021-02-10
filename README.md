@@ -1,5 +1,7 @@
 # Thebestofus
 
+Com o objetivo de atrair alunos às atividades realizadas pela universidade; Apoiar institutos carentes; Gerar um espaço confortável que promove criação de laços sociais por meio do entretenimento dos E-Sports. Foi criada a iniciativa do projeto the best of us. O repositório em questão, trata-se de um SPA com o objetivo de suprir essa necessidade e ainda resumir os conceitos adiquiridos no bootcamp da Avanade, o Avanade Angular Developer.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.21.
 
 ## Development server
