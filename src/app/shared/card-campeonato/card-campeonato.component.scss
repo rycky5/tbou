@@ -1,0 +1,15 @@
+.card-campeonato {
+  margin: 20px;
+  transition: 0.5s;
+  transform: scale(1);
+  cursor: pointer;
+}
+
+.card-campeonato:hover {
+  transition: 0.5s;
+  transform: scale(1.05);
+}
+
+.card-img-top {
+  max-height: 140px;
+}
